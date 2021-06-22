@@ -1,6 +1,6 @@
 import pygame
 from math import sqrt
-from class_blawhi import load_image, Blawhi
+from class_blawhi import load_image, FirstP, SecondP
 from main import size
 
 
